@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kaltura/api-client-library": "^17.0",
+        "box/spout": "^3.3"
+    }
+}
